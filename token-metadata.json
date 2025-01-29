@@ -1,0 +1,21 @@
+{
+  "name": "Fadhis Amravadh",
+  "symbol": "FDAM",
+  "description": "Your token description",
+  "image": "https://raw.githubusercontent.com/abderafi3/fdam-coin/main/token-image.png",
+  "animation_url": "",
+  "external_url": "https://yourwebsite.com",
+  "attributes": [
+    { "trait_type": "Category", "value": "Memecoin" },
+    { "trait_type": "Supply", "value": "50,000,000" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/abderafi3/fdam-coin/main/token-image.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
+
