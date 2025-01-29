@@ -3,7 +3,6 @@
   "symbol": "FADS",
   "description": "Fadhis Amravadh Memecoin",
   "image": "https://raw.githubusercontent.com/abderafi3/solana-fads-coin/main/token-image.png",
-  "animation_url": "",
   "external_url": "https://fadhis.asagno.com",
   "attributes": [
     { "trait_type": "Category", "value": "Memecoin" },
@@ -18,4 +17,5 @@
     ]
   }
 }
+
 
